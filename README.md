@@ -1,0 +1,2 @@
+# WeChatPeopleNearbyGreet
+WeChat自动给附近人发送消息
